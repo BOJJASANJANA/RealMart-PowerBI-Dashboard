@@ -20,6 +20,6 @@ retail sales performance using an Excel dataset.
 ![Dashboard Screenshot](dashboard_preview.png)
 
 ## 📂 Files in this Repository
-- Dataset: realmart_sales_data.xlsx
+- Dataset: realmart_sales_data.xlsx(DA+workshop+dataset)
 - Dashboard: RealMart_Dashboard.pbix
 - Preview Image: dashboard_preview.png
